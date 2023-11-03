@@ -6,7 +6,7 @@ English / [简体中文](./docs/README_CN.md) / [日本語](./docs/README_JA.md)
 
 One-Click to deploy well-designed AutoGPT-Next-Web UI on Vercel.
 
-![Deploy with Vercel](https://vercel.com/button) [Link](https://vercel.com/new/clone?repository-url=https://github.com/willdelg/AutoGPT-Next-Web&env=OPENAI_API_KEY&project-name=autogpt-next-web&repository-name=AutoGPT-Next-Web)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/willdelg/AutoGPT-Next-Web&env=OPENAI_API_KEY&project-name=autogpt-next-web&repository-name=AutoGPT-Next-Web)
 
 [Demo](https://auto-agentgpt.com/) / [Issues](https://github.com/willdelg/AutoGPT-Next-Web/issues) / [Join Discord](https://discord.gg/Xnsbhg6Uvd) / [Buy Me a Coffee](https://www.buymeacoffee.com/newusername)
 
